@@ -52,12 +52,3 @@ Furthermore, more complex patterns like product reviews are taken into considera
 
 
 
-
-
-
-
-
-
-
-
-
