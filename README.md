@@ -17,6 +17,7 @@
 ** Determining Optimal Clusters**
 
 In determining the optimal clusters, I used three popular methods –
+
 *Elbow method
 *Silhouette method
 *Gap statistic
